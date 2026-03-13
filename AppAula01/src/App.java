@@ -3,7 +3,7 @@ public class App {
         System.out.println("Banco Fictício");
 
         System.out.println("Criar uma conta com seus dados");
-        Conta c1 = new Conta(); // isso é instaciar (criar)
+        Conta c1 = new Conta(); // isso é instanciar (criar)
         c1.numero = 1;
         c1.titular = "Diwei";
         c1.saldo = 0f;
